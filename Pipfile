@@ -12,6 +12,8 @@ nltk = "*"
 pandas = "*"
 langdetect = "*"
 bs4 = "*"
+html2text = "*"
+wordcloud = "*"
 
 [requires]
 python_version = "3.6"
