@@ -14,6 +14,8 @@ langdetect = "*"
 bs4 = "*"
 html2text = "*"
 wordcloud = "*"
+gensim = "*"
+pyldavis = "*"
 
 [requires]
 python_version = "3.6"

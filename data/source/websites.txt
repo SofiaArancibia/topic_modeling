@@ -1,10 +1,8 @@
 [supermarket]
 https://www.walmart.com.ar
-https://www.makro.com.ar
-https://www.alvearsupermercados.com.ar/
-https://www.yaguar.com.ar/
-https://www.libertadsa.com.ar/
-http://www.coto.com.ar/
+https://www.makro.com.ar/ofertas
+https://www.alvearsupermercados.com.ar/ofertas/
+https://www.cotodigital3.com.ar/sitios/cdigi/browse?_dyncharset=utf-8&Dy=1&Nty=1&Ntk=All%7Cproduct.sDisp_200&Ntt=OFESEMANAL020320%7C1004
 
 [telephone]
 https://www.personal.com.ar/
@@ -29,7 +27,7 @@ https://www.ellitoral.com
 https://www.cadena3.com
 https://www.lavoz.com.ar
 https://www.xataka.com
-https://elgatoylacaja.com.ar/
+https://elgatoylacaja.com.ar/category/notas/
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 
 [newspaper]
@@ -47,14 +45,13 @@ https://www.lavoz.com.ar
 https://www.xataka.com
 
 [entertainment]
-https://elgatoylacaja.com.ar/
+https://elgatoylacaja.com.ar/category/notas/
 https://primitivetechnology.wordpress.com/2018/04/20/round-hut/
 https://www.youtube.com/
 https://www.netflix.com
 https://www.imdb.com
 https://www.dailymotion.com
 https://www.primevideo.com
-https://www.spotify.com
 https://soundcloud.com/
 https://9gag.com
 https://ar.pinterest.com/
@@ -105,7 +102,6 @@ https://www.dailymotion.com
 https://www.primevideo.com
 
 [music]
-https://www.spotify.com
 https://soundcloud.com/
 
 [humor]
