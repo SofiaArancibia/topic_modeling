@@ -16,6 +16,9 @@ html2text = "*"
 wordcloud = "*"
 gensim = "*"
 pyldavis = "*"
+numpy = "*"
+scipy = "*"
+lda = "*"
 
 [requires]
 python_version = "3.6"
