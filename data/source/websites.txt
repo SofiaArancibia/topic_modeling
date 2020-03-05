@@ -159,3 +159,16 @@ https://www.howmanypeopleareinspacerightnow.com/
 [weather]
 https://www.accuweather.com/en/it/bra/214437/weather-forecast/214437
 https://www.wunderground.com
+https://www.windy.com/?-27.460,-53.965,3
+
+[specific_topic]
+https://towardsdatascience.com/end-to-end-topic-modeling-in-python-latent-dirichlet-allocation-lda-35ce4ed6b3e0
+https://towardsdatascience.com/topic-modelling-in-python-with-nltk-and-gensim-4ef03213cd21
+https://datascience.blog.wzb.eu/2016/06/17/creating-a-sparse-document-term-matrix-for-topic-modeling-via-lda/
+
+[antivirus]
+https://www.mcafee.com/consumer/es-ar/landing-page/direct/sem/mtp-family/desktop/brand-ad.html?csrc=google&csrcl2=main-ad&cctype=desktop-brand&ccstype=&ccoe=direct&ccoel2=sem&pkg_id=521&affid=1485&utm_source=google-brand-c&utm_campaign=1083652287&utm_content=392270022676&utm_term=kwd-15048370&gclid=Cj0KCQiAwP3yBRCkARIsAABGiPqdklG6FPI_Et8Xr9p-jhWOBHBWUdct-GS6oiSBbyGc35ZxG-18bz0aAppeEALw_wcB
+https://ar.norton.com/products?nortoncountry=ar&om_sem_cid=hho_sem_sy:ar:ggl:es:e:nb:kw0000012873:416717499975:c:google:6491103500:76036422417:kwd-258057339&nortoncountry=AR&pgrid=76036422417&ptaid=kwd-258057339&gclid=Cj0KCQiAwP3yBRCkARIsAABGiPqNJ50Chgw4MCoae8Tp4bIMJBHoaK2-NgFd2yU8eVdo_OKkNNmTGbwaAjFXEALw_wcB
+https://www.pandasecurity.com/security-promotion/?reg=AR&lang=es&track=99829&campaign=dome1802&option=yearly&coupon=50OFFMULTIP&gclid=Cj0KCQiAwP3yBRCkARIsAABGiPpoEyzzmkAEzGJF4EABJfpIUDpbaTrvzQwORul-sOp-y8nidWRtDp8aAr61EALw_wcB
+https://www.eset.com/ar/hogar/oferta-25/?gclid=Cj0KCQiAwP3yBRCkARIsAABGiPqK8IOtx6GCPUNVE-DnNiGsPB4mfmyZ-cDakTipj4w90s2OviW_6gcaAlx4EALw_wcB
+https://latam.kaspersky.com/

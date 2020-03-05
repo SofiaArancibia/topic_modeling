@@ -19,6 +19,7 @@ pyldavis = "*"
 numpy = "*"
 scipy = "*"
 lda = "*"
+seaborn = "*"
 
 [requires]
 python_version = "3.6"
